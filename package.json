@@ -1,0 +1,15 @@
+{
+  "name": "excel-compare-jest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
